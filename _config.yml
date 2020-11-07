@@ -1,17 +1,13 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: DAPR
+description: Proyectos DAPR
+baseurl: "/website" 
+url: "https://dapr-web.gitlab.io" 
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: DAPR
+user_description: Análisis Prospectivo de Riesgos
+email: nicofranzp@gmail.com
 
 # Build settings
 markdown: kramdown
