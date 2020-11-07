@@ -27,11 +27,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Proyectos por Estado
     url: /series
-  - title: Tags
+  - title: Proyectos por Etiquetas
     url: /tags
-  - title: About Me
+  - title: Nosotros
     url: /about
 
 # exclude my node related stuff
